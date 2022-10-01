@@ -12,7 +12,7 @@ I'm a **Software Engineer** and **Content Creator** who develops dependable full
 - 📫 Reach me on https://linktr.ee/salamitech
 - ⚡  Coding, Math & Movies 
 
-<br>
-<br>
+<br />
+<br />
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SalamiTech&theme=gruvbox)](https://git.io/streak-stats)
