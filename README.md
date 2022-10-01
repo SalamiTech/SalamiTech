@@ -1,7 +1,7 @@
 ### Hello, I'm Gideon Salami 🐱‍💻⚡ 
 
 
-Here are some ideas to get you started:
+I'm a software Engineer and Content Creator who develops dependable full-stack solutions for the web and mobile platforms.
 
 - 🔭 I’m currently working on a delivery app using flutter and firebase
 - 🌱 I’m currently learning cloud engineering
