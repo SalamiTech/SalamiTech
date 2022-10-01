@@ -14,5 +14,15 @@ I'm a **Software Engineer** and **Content Creator** who develops dependable full
 
 <br />
 <br />
+<br />
+<br />
+<br />
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SalamiTech&theme=gruvbox)](https://git.io/streak-stats)
+
+<div style="display:flex;justify-content: space-between">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SalamiTech&theme=ayu-mirage&hide_border=true" width="49.5%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=SalamiTech&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true&count_private=true" width="49.5%"/>
+
+</div>  
+<br/>
