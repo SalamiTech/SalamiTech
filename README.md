@@ -10,3 +10,4 @@ I'm a software Engineer and Content Creator who develops dependable full-stack s
 - 📫 Reach me on https://linktr.ee/salamitech
 - ⚡  Coding, Math & Movies 
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SalamiTech&theme=gruvbox)](https://git.io/streak-stats)
