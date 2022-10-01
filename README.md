@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hello, I'm Gideon Salami 🐱‍💻⚡ 
 
 
 Here are some ideas to get you started:
