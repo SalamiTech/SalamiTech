@@ -22,8 +22,8 @@ I'm a **Software Engineer** and **Content Creator** who develops dependable full
 <div style="display:flex;justify-content: space-between">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalamiTech&theme=ayu-mirage&hide_border=true" width="49.5%"/>
 
-<a href="https://github.com/SalamiTech">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalamiTech&hide=java,html,Makefile,tex&title_color=36BCF7&text_color=c9cacc&icon_color=00FFFF&bg_color=1d1f21&langs_count=4" />
+<a href="https://github.com/emilio-kariuki/emilio-kariuki">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emilio-kariuki&show_icons=true&line_height=27&count_private=true&title_color=36BCF7&text_color=c9cacc&icon_color=36BCF7&bg_color=1d1f21" alt="Chemutai's GitHub Stats" />
 </a>
 
 </div>  
