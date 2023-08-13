@@ -6,7 +6,7 @@ I'm a **Software Engineer** and **Content Creator** who develops dependable full
 
 
 - 🔭 I’m currently working on a mental health app using flutter and firebase
-- 🌱 I’m currently learning springboot
+- 🌱 I’m currently learning angular and java springboot 
 - 👯 I’m looking to collaborate on flutter and python django cool projects
 - 💬 Apart from tech, we can talk about movies
 - 📫 Reach me on https://linktr.ee/salamitech
