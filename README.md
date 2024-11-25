@@ -1,4 +1,4 @@
-### Hello, I'm Gideon Salami 🐱‍💻⚡ 
+### Hello, I'm Salami 🐱‍💻⚡ 
 I'm a **Software Engineer** and **Content Creator** who develops dependable full-stack solutions for the web and mobile platforms.
 
 
