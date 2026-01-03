@@ -6,7 +6,7 @@ I build dependable full-stack solutions for **web, mobile & AI-powered systems**
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalamiTech&layout=compact&theme=ayu-mirage&hide_border=true&count_private=true&langs_count=10" width="40%"/>
 
 #### 🔹 What I'm Working On
-- 🚀 A **wearable AR platform** with mobile + web support  
+- 🚀 A real-time 3D Earth-orbit simulation platform that visualizes satellite constellations and reinforcement-learning coordinations
 - 🧠 Deepening my expertise in **Machine Learning & Reinforcement Learning**
 - 🤝 Open to collaborating on **Flutter • Python (Django) • AI & Data-driven projects**
 - 🎬 Outside tech — I enjoy movies & great conversations
